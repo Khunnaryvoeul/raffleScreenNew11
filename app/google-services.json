@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "172612491048",
+    "project_id": "test1-577be",
+    "storage_bucket": "test1-577be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172612491048:android:19eb734bbc173dfcc9621d",
+        "android_client_info": {
+          "package_name": "org.meicode.rafflescreennew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUjFJw3rFsQYZc-ss1axNpauzaam8s8tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
